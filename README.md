@@ -9,13 +9,13 @@ The objective is to build a recommendation system based on restaurant data provi
 5. Python
 
 # Business Use Cases:
-1.** Personalized Recommendations:** Help users discover restaurants based on their preferences.
+1. **Personalized Recommendations:** Help users discover restaurants based on their preferences.
 
-2. **Improved Customer Experience:** Provide tailored suggestions to enhance decision-making.
+2.**Improved Customer Experience:** Provide tailored suggestions to enhance decision-making.
    
-3.** Market Insights:** Understand customer preferences and behaviors for targeted marketing.
+3.**Market Insights:** Understand customer preferences and behaviors for targeted marketing.
 
-4.** Operational Efficiency:** Enable businesses to optimize their offerings based on popular preferences.
+4.**Operational Efficiency:** Enable businesses to optimize their offerings based on popular preferences.
 
 
 
